@@ -4,7 +4,7 @@
 
 - 👨‍💻 I’m currently working as a **MEAN STACK Developer**
 - 🌱 I’m currently learning **ASP.Net**
-- 👨‍💻 My projects are available at My [portfolio website](https://saikumar-5.web.app)
+- 💻 My projects are available at My [portfolio website](https://saikumar-5.web.app)
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
 
