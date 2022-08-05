@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Self-taught MEAN Stack Developer, I build modern-day UI components to improve application performance</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gangasaikumar&label=Profile%20views&color=0e75b6&style=flat" alt="Gangasai kumar" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
 - 👨‍💻 I’m currently working as a **MEAN STACK Developer**
 - 🌱 I’m currently learning **ASP.Net**
 - 💻 My projects are available at My [portfolio website](https://saikumar-5.web.app)
