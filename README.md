@@ -36,7 +36,7 @@
 <p align="left">
 <h4 align="left">Back-End Technologies:</h4>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://soryaek.github.io/assets/img/skills/expressjs.jpg" alt="express" width="60" height="30"/> </a>&nbsp;&nbsp;
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://freepikpsd.com/file/2019/10/express-js-png-Transparent-Images.png" alt="express" width="80" height="30"/> </a>&nbsp;&nbsp;
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="ASP.Net" width="40" height="40"/> </a>&nbsp;&nbsp;
 
 
