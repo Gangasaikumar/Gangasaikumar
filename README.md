@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hi, I’m @Gangasaikumar </h1>
+<!----- 👋 ----->
+<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @Gangasaikumar </h1>
 <h3 align="center">A passionate Self-taught MEAN Stack Developer, I build modern-day UI components to improve application performance</h3>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
