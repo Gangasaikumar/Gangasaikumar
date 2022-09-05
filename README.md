@@ -2,7 +2,18 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @Gangasaikumar </h1>
 <h3 align="center">A passionate Self-taught MEAN Stack Developer, I build modern-day UI components to improve application performance</h3>
 
+<!-----
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+----->
+
+<!-----
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+----->
+
+
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = "300"/>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gangasaikumar&label=Profile%20views&color=blueviolet&style=flat" alt="Gangasai kumar" /> </p>
 
