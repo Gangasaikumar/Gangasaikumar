@@ -18,10 +18,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gangasaikumar&label=Profile%20views&color=blueviolet&style=flat" alt="Gangasai kumar" /> </p>
 
 - 👨‍💻 I’m currently working as a **MEAN STACK Developer**
-- 🌱 I’m currently learning **ASP.Net**
 - 💻 My projects are available at My [portfolio website](https://saikumar-5.web.app)
 - 📝 I regularly Post on [instagram](https://www.instagram.com/code_tech._/)
-- 💬 Ask me about **angular, React.js, JavaScript, nodejs, Mongodb, mySQL**
+- 💬 Ask me about **angular, React.js, JavaScript, nodejs, ASP.net MVC, Mongodb, mySQL**
 - 📫 Reach me on **gangasaikumar55555@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
