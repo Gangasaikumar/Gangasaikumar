@@ -1,6 +1,6 @@
 <!----- 👋 ----->
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @Gangasaikumar </h1>
-<h3 align="center">A passionate Self-taught MEAN Stack Developer, I build modern-day UI components to improve application performance</h3>
+<h3 align="center">A passionate Self-taught Full Stack Developer, I build modern-day UI components to improve application performance</h3>
 
 <!-----
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -17,7 +17,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gangasaikumar&label=Profile%20views&color=blueviolet&style=flat" alt="Gangasai kumar" /> </p>
 
-- 👨‍💻 I’m currently working as a **MEAN STACK Developer**
+- 👨‍💻 I’m currently working as a **FULL STACK Developer**
 - 💻 My projects are available at My [portfolio website](https://saikumar-5.web.app)
 - 📝 I regularly Post on [instagram](https://www.instagram.com/code_tech._/)
 - 💬 Ask me about **angular, React.js, JavaScript, nodejs, ASP.net MVC, Mongodb, mySQL**
