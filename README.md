@@ -20,14 +20,16 @@
 - 👨‍💻 I’m currently working as a **FULL STACK Developer**
 - 💻 My projects are available at My [portfolio website](https://saikumar-5.web.app)
 <!------ 📝 I regularly Post on [instagram](https://www.instagram.com/code_tech._/)  ----->
-- 💬 Ask me about **angular, React.js, JavaScript, nodejs, ASP.net MVC, Mongodb, Microsoft SQL, mySQL, PostgreSQL**
+- 💬 Ask me about **C#, Angular, React.js, JavaScript, nodejs, ASP.net Core, ASP.net MVC, ASP.net Web API, Mongodb, Microsoft SQL, mySQL, PostgreSQL .**
 - 📫 Reach me on **gangasaikumar55555@gmail.com**
 
+<!------ 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://www.instagram.com/code_tech._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code_tech" height="24" width="24" /></a>
 <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Gangasai kumar G" height="30" width="40" /></a>
 </p>
+----->
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -39,21 +41,21 @@
 <h4 align="left">Front-End Technologies:</h4>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp; &nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp; &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> &nbsp; &nbsp;
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> &nbsp; &nbsp;
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp; &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 
 <h4 align="left">Front-End Frameworks:</h4>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="40" height="40"/> </a>&nbsp;&nbsp;
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;&nbsp;
  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> &nbsp;&nbsp;
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> &nbsp;&nbsp;
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a> &nbsp;&nbsp;
 
 
 <p align="left">
 <h4 align="left">Back-End Technologies:</h4>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://freepikpsd.com/file/2019/10/express-js-png-Transparent-Images.png" alt="express" width="80" height="30"/> </a>&nbsp;&nbsp;
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn-media-1.freecodecamp.org/images/1*DF0g7bNW5e2z9XS9N2lAiw.jpeg" alt="nodejs" width="60" height="40"/> </a>&nbsp;&nbsp;
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:680/1*7G9vb_q5MA8_C_8HtwMfqw.png" alt="express" width="100" height="30"/> </a>&nbsp;&nbsp;
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>&nbsp;&nbsp;
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="ASP.Net" width="40" height="40"/> </a>&nbsp;&nbsp;
 
@@ -65,8 +67,10 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="38" height="38"/> </a>&nbsp;&nbsp;
 
 <h4 align="left">Tools:</h4>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp; &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp; &nbsp;
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp; &nbsp;
+<a href="https://learn.microsoft.com/en-us/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops" target="_blank" rel="noreferrer"> <img src="https://www.praktikgroup.com/wp-content/uploads/2018/04/tfs.jpg" alt="TFS" width="60" height="40"/> </a> &nbsp; &nbsp;
+<a href="https://azure.microsoft.com/en-in/products/devops" target="_blank" rel="noreferrer"> <img src="https://www.praktikgroup.com/wp-content/uploads/2020/11/20200115-AzureDevOps.png" alt="Azure devOps" width="60" height="40"/> </a> &nbsp; &nbsp;
 </p>
 
 <!----- feature perpus 
