@@ -19,7 +19,7 @@
 
 - 👨‍💻 I’m currently working as a **FULL STACK Developer**
 - 💻 My projects are available at My [portfolio website](https://saikumar-5.web.app)
-- 📝 I regularly Post on [instagram](https://www.instagram.com/code_tech._/)
+<!------ 📝 I regularly Post on [instagram](https://www.instagram.com/code_tech._/)  ----->
 - 💬 Ask me about **angular, React.js, JavaScript, nodejs, ASP.net MVC, Mongodb, mySQL**
 - 📫 Reach me on **gangasaikumar55555@gmail.com**
 
