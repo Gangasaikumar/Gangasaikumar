@@ -1,5 +1,5 @@
 <!----- 👋 ----->
-<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @Gangasaikumar </h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m @Gangasai kumar </h1>
 <h3 align="center">A passionate Self-taught Full Stack Developer, I build modern-day UI components to improve application performance</h3>
 
 <!-----
